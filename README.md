@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤖 About Me:
 ## 👋 Hi, I'm Kalp<br><br>I build AI systems across **Generative AI (RAG), Computer Vision, and Optimization** — from LLM-powered research tools to 3D spatial intelligence pipelines.  <br><br>My work focuses on **real-world, end-to-end systems**, including multi-hop reasoning, vector search, and decision-support models.  <br><br>Currently exploring **multimodal AI, agentic systems, and scalable ML applications**.
 
 
